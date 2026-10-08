@@ -1,0 +1,15 @@
+{
+  "name": "GoldWise",
+  "short_name": "GoldWise",
+  "description": "Live gold and silver prices, jewellery price calculator and nearby jewellery stores",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14211c",
+  "theme_color": "#14211c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
